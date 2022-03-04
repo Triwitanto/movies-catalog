@@ -204,7 +204,6 @@ class MoviesFragment : Fragment() {
                 }.start()
             }
         })
-
     }
 
     companion object {
